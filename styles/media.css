@@ -1,0 +1,14 @@
+@media (max-width: 1230px) {
+  header {
+    width: 90%;
+  }
+}
+@media (max-width: 1000px) {
+    .cont {
+        display: none;
+    }
+
+    .fa-star {
+        display: inline-block;
+    }
+}
